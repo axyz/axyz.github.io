@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test"
+date:   2013-10-03
+categories: news
+---
+
+Lorem ipsum dolor
